@@ -12,9 +12,9 @@ python run_unilm_couplet.py
 
 ## 效果
 等模型训练结束后，执行test.py文件可以简单查看模型效果
-![pic/WechatIMG5.png]
-![pic/WechatIMG6.png]
-![pic/WechatIMG7.png]
-![pic/WechatIMG8.png]
-![pic/WechatIMG9.png]
+![pic/WechatIMG5.png](https://github.com/zhongerqiandan/couplet-by-unilm/blob/master/pics/WechatIMG5.png)
+![pic/WechatIMG6.png](https://github.com/zhongerqiandan/couplet-by-unilm/blob/master/pics/WechatIMG6.png)
+![pic/WechatIMG7.png](https://github.com/zhongerqiandan/couplet-by-unilm/blob/master/pics/WechatIMG7.png)
+![pic/WechatIMG8.png](https://github.com/zhongerqiandan/couplet-by-unilm/blob/master/pics/WechatIMG8.png)
+![pic/WechatIMG9.png](https://github.com/zhongerqiandan/couplet-by-unilm/blob/master/pics/WechatIMG9.png)
 
